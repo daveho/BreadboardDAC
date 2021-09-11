@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Connector_Generic)(type Legacy)(uri ${KIPRJMOD}/Connector_Generic.lib)(options "")(descr ""))
+  (lib (name device)(type Legacy)(uri ${KIPRJMOD}/device.lib)(options "")(descr ""))
+)
