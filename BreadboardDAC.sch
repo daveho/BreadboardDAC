@@ -19,7 +19,7 @@ U 1 1 613CA3EC
 P 4100 3450
 F 0 "J1" H 4018 2525 50  0000 C CNN
 F 1 "Conn_01x15" H 4018 2616 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" H 4100 3450 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical" H 4100 3450 50  0001 C CNN
 F 3 "~" H 4100 3450 50  0001 C CNN
 	1    4100 3450
 	-1   0    0    1   

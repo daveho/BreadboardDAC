@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/daveho/git/BreadboardDAC/BreadboardDAC.sch)
-    (date "Sat 11 Sep 2021 08:56:07 AM EDT")
+    (date "Sat 11 Sep 2021 09:00:24 AM EDT")
     (tool "Eeschema 5.1.10-88a1d61d58~90~ubuntu20.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -17,7 +17,7 @@
   (components
     (comp (ref J1)
       (value Conn_01x15)
-      (footprint Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal)
+      (footprint Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical)
       (datasheet ~)
       (libsource (lib Connector_Generic) (part Conn_01x15) (description "Generic connector, single row, 01x15, script generated (kicad-library-utils/schlib/autogen/connector/)"))
       (sheetpath (names /) (tstamps /))
